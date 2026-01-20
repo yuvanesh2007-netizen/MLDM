@@ -1,0 +1,31 @@
+feature,pfi_mean,pfi_std
+num__worst concave points,0.1464912280701754,0.03884489443067461
+num__worst concavity,0.08333333333333329,0.019712460573898444
+num__worst radius,0.05964912280701751,0.01700940300847834
+num__worst texture,0.021929824561403466,0.014808721943977315
+num__worst area,0.002631578947368385,0.012436356911191068
+num__mean radius,0.0,0.0
+num__perimeter error,0.0,0.0
+num__mean symmetry,0.0,0.0
+num__mean fractal dimension,0.0,0.0
+num__mean perimeter,0.0,0.0
+num__mean smoothness,0.0,0.0
+num__mean area,0.0,0.0
+num__mean compactness,0.0,0.0
+num__mean concavity,0.0,0.0
+num__symmetry error,0.0,0.0
+num__fractal dimension error,0.0,0.0
+num__concavity error,0.0,0.0
+num__worst perimeter,0.0,0.0
+num__radius error,0.0,0.0
+num__concave points error,0.0,0.0
+num__smoothness error,0.0,0.0
+num__compactness error,0.0,0.0
+num__worst compactness,0.0,0.0
+num__worst smoothness,0.0,0.0
+num__worst symmetry,0.0,0.0
+num__worst fractal dimension,0.0,0.0
+num__mean concave points,-0.0026315789473684735,0.012436356911191071
+num__mean texture,-0.0035087719298245723,0.004297350425935414
+num__texture error,-0.009649122807017574,0.0047238287781881765
+num__area error,-0.01403508771929829,0.008945648269461055

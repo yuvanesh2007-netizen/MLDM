@@ -1,0 +1,10 @@
+MCC: 0.8219
+
+              precision    recall  f1-score   support
+
+           0       0.83      0.95      0.89        42
+           1       0.97      0.89      0.93        72
+
+    accuracy                           0.91       114
+   macro avg       0.90      0.92      0.91       114
+weighted avg       0.92      0.91      0.91       114
